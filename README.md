@@ -114,6 +114,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/cauathiagoo/api-pedidos-fastapi.git
+
 cd api-pedidos-fastapi
 ```
 

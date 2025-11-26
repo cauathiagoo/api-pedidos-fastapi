@@ -1,0 +1,1 @@
+# Permite que app seja importado como um pacote

@@ -19,7 +19,7 @@ autenticação segura via JWT.
 ## 🚀 Sobre o Projeto
 
 O objetivo deste projeto é estudar e praticar desenvolvimento backend
-com FastAPI e estruturado em arquitetura modular baseada em funcionalidades para aplicações FastAPI, e também aplicando boas práticas de API REST com:
+com FastAPI e estruturar em arquitetura modular baseada em funcionalidades para aplicações FastAPI, e também aplicando boas práticas de API REST com:
 
 - Autenticação via JWT
 - Rotas protegidas
